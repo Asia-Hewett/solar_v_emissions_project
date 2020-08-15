@@ -128,4 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 config.py
+=======
+**/config.py
+**/api_keys.py
+
+.DS_Store
+>>>>>>> 364cdeda83eacd9a790333e4275b4e75b47cbe06
