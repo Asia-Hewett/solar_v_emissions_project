@@ -129,10 +129,16 @@ dmypy.json
 .pyre/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 config.py
 =======
+=======
+>>>>>>> 3418f2e9e66a31c2a25282446f2c67c9a1fd58fe
 **/config.py
 **/api_keys.py
 
 .DS_Store
+<<<<<<< HEAD
 >>>>>>> 364cdeda83eacd9a790333e4275b4e75b47cbe06
+=======
+>>>>>>> 3418f2e9e66a31c2a25282446f2c67c9a1fd58fe
