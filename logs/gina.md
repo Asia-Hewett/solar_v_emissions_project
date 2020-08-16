@@ -5,5 +5,5 @@ Began a jupyter notebook using the https://www.eia.gov/opendata/ resources but n
 Submitted a request for the API. 
 
 **8/16/2020**
-Finsiehd API homework while waiting for EIA API. Realized it went to junk mail!
+Finsiehd API homework while waiting for EIA API. Realized it went to junk mail! :woman_facepalming:
 Continue to explore if the data will be sufficient to measure solar usage by state.
