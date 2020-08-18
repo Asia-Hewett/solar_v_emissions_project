@@ -21,4 +21,6 @@ later. Thought it would be useful when drawing conclusions about solar impact on
 
 8/17/2020
 Gathered more data from eia about solar consumption by state dataframes and plots in eia.ipynb. Found solar production data in an excel file
-on eia, formatted with pivot table and saved as csv. Loaded csv into Jupyter notebook. Will plot later.
+on eia, formatted with pivot table and saved as csv. Loaded csv into Jupyter notebook. Will plot later. Did population data work today
+spent a bunch of time hitting the API to make a dataframe, then found a csv with all the information already in there (oops).
+
