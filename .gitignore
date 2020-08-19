@@ -133,4 +133,4 @@ config.py
 **/config.py
 **/api_keys.py
 
-.DS_Store
+**/.DS_Store
