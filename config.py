@@ -1,3 +1,3 @@
 # Enter your API key
-gkey = "1deUVhzcZHUxAgyc0mCopHeyPdxDLGhCED56L8oh"
-##Test if it loads to github now that I fixed gitignore
+gkey = "TEfmHfQ1iyJLs6MVbn5a6h2atsVT5eTnuqpx2D4S"
+##This is Tammi's data.gov key
