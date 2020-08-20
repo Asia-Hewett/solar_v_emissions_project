@@ -9,3 +9,4 @@
 04:12 P.M. Fixing gitignore files. API keys were visible.
 04:29 P.M. Back on track
 04:33 P.M. After importing my first heatmap for 2018's population, I realized the data available for emissions did not include 2018
+05:05 P.M. Realizing a heatmap for population would also look silly because I only have capital cities lat/lng and mapping a single city wouldn't be good for documenting the metrics for my hypothesis. Back to the drawing board. Dinner break.
