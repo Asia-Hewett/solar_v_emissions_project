@@ -4,3 +4,5 @@
 
 8/20/2020 - Beginning T-Tests
 12:10 P.M. Reviewing lessons on Hypothesis Testing
+02:00 P.M. Tech Talk Seminar. Not related, just a break notation.
+03:39 P.M. Totally changing directions -- I originally wanted to do a scatterplot and a bar chart showing the individual metrics but now I'm thinking of doing two gmap charts to show the concentration of the US population, and the avg. emissions for 2018 to match my census data.
