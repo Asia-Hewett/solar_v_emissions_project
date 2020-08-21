@@ -24,3 +24,11 @@ Gathered more data from eia about solar consumption by state dataframes and plot
 on eia, formatted with pivot table and saved as csv. Loaded csv into Jupyter notebook. Will plot later. Did population data work today
 spent a bunch of time hitting the API to make a dataframe, then found a csv with all the information already in there (oops).
 
+8/18/2020 Group meet up, decided on comparing variable as they relate to emissions data to see which has the strongest correlation to 
+air quality / amount of emissions. My branch will examine renewable energy production as it relates to emissions.
+
+8/19/2020 Was able to neatly convert all data I needed from my API calls into csv files. Organized and plotted data and plotted linear regression.
+I also experimented with colorbar. SUPER NEAT! Its extra but I like it. I need to consider other comparisons that can be made between these datasets.
+Probably will do some more data collection for renewable consumption to see if that correlates better. So far, findings are that production
+rates are not indicative of high or low emissions. Would also like to show a histogram of some sort and of course a statistical test. Working on it.
+
