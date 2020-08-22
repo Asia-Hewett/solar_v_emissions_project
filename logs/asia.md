@@ -12,3 +12,12 @@
 05:05 P.M. Realizing a heatmap for population would also look silly because I only have capital cities lat/lng and mapping a single city wouldn't be good for documenting the metrics for my hypothesis. Back to the drawing board. Dinner break.
 06:00 P.M. Office Hours - Fixed git questions 
 09:54 P.M. Class Log -- We settled on using five states to plot emissions data for all of the information we are going to present. I am going to go ahead and play around with the data and determine whether all fifty states would be a better trend to document the metrics. If it is I'll make a scatterplot and try to figure out how to differentiate markers by state so we can see where everyone is on their emissions. If I choose to limit it to the five states we narrowed it down to, I will use a line plot to show five individual lines and plot a marker for each year of emissions.
+
+8/21/2020 - Took Off From Coding For Work
+
+8/22/2020 - Finishing Plots Today
+09:55 A.M. Logged into class for todays session
+10:20 A.M. Installing EDB and PGAdmin today
+10:55 A.M. Briefed on everyones progress
+12:10 A.M. Lunch and going solo
+03:29 P.M. Having trouble with population/state graph. Need to review MatPlotLib y-axis limitations and autosetting. Also need a break... Three hours and zero progress. I didn't have trouble with MatPlot in class so I must be overthinking it.
