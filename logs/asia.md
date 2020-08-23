@@ -25,3 +25,4 @@
 09:12 P.M. Finished "Population by State" graph which I know was a total waste of time... but I wanted it...
 09:31 P.M. Had to fix the csv's to show state abbreviations so I could merge the emissions data with the population data
 09:43 P.M. Emissions data had to be updated to fit the previous edits as well
+11:12 P.M. Trying to get my multiplot line to work but I've run into some roadblocks I believe are rooted in my dataframes. I'm going to do some more research and get it figured out. I'll use a chi-test and t-test to determine correlation on my last plot.
