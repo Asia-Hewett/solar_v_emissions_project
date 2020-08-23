@@ -21,3 +21,6 @@
 10:55 A.M. Briefed on everyones progress
 12:10 A.M. Lunch and going solo
 03:29 P.M. Having trouble with population/state graph. Need to review MatPlotLib y-axis limitations and autosetting. Also need a break... Three hours and zero progress. I didn't have trouble with MatPlot in class so I must be overthinking it.
+07:16 P.M. Getting started on a second attempt for the day
+09:12 P.M. Finished "Population by State" graph which I know was a total waste of time... but I wanted it...
+09:31 P.M. Had to fix the csv's to show state abbreviations so I could merge the emissions data with the population data
