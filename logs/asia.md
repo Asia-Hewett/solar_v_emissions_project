@@ -24,3 +24,4 @@
 07:16 P.M. Getting started on a second attempt for the day
 09:12 P.M. Finished "Population by State" graph which I know was a total waste of time... but I wanted it...
 09:31 P.M. Had to fix the csv's to show state abbreviations so I could merge the emissions data with the population data
+09:43 P.M. Emissions data had to be updated to fit the previous edits as well
