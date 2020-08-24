@@ -30,4 +30,5 @@
 07:45 P.M. Home from work 
 08:00 P.M. Settled in to start work on combining my graphs to show correlation between population and emissions. I think all 50 states would be more impressive, and doing a box and whiskers or t/chi test would prove a relationship.
 08:20 P.M. Finished the 10 year emissions chart for 50 states
-10:45 P.M. Spent two hours trying to understand how to fit a grouped chart within the provided limits. Kill me.
+10:45 P.M. Spent two hours trying to understand how to fit a grouped chart within the provided limits. Kill me. 
+11:31 P.M. Finished formatting my grouped bar graph. It does not prove my point. 
