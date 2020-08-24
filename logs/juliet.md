@@ -41,3 +41,8 @@ That was all for today was tired from grandma's services :(
 Made a basemap for emissions level, again extra but I really liked how it turned out! Might scrap it though because it doesnt go with my part. Thats all for today,
 time to study for finals.
 
+8/23/2020 Worked basemap into my part. The idea of comparing the percentage of renewable consumption to total energy consumptions crept up on me 
+while i was making a grilled cheese sandwich. Had to do another API call to get the information for total energy consumption by  state and then calculate
+the percentages. I made some pie charts for our states of interest to compare to the emissions basemap. it turned out okay in my opinion. Worked on 
+slides for the presentation and did some edits to the presentation for continuity. 
+
