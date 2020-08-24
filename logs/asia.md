@@ -27,6 +27,7 @@
 09:43 P.M. Emissions data had to be updated to fit the previous edits as well
 11:12 P.M. Trying to get my multiplot line to work but I've run into some roadblocks I believe are rooted in my dataframes. I'm going to do some more research and get it figured out. I'll use a chi-test and t-test to determine correlation on my last plot.
 
+8/23/2020 - Reworking Plots To Show Hypothesis Data
 07:45 P.M. Home from work 
 08:00 P.M. Settled in to start work on combining my graphs to show correlation between population and emissions. I think all 50 states would be more impressive, and doing a box and whiskers or t/chi test would prove a relationship.
 08:20 P.M. Finished the 10 year emissions chart for 50 states
@@ -34,3 +35,9 @@
 11:31 P.M. Finished formatting my grouped bar graph. It does not prove my point. 
 11:44 P.M. Changing direction for my next plots. I am trying to prove my hypothesis, and the five states we chose do not show my data the best. I am not comparing my data to anyone elses in the group, therefore, unique nominators are okay as long as we use the same denomenator for comparing data. 
 11:50 P.M. Going to make a five line plot to show the relationship between the five most populous states (CA, TX, FL, NY, IL) and their emissions rates over the past 10 years.
+
+8/24/2020 - Finishing Line and Box/Whiskers Plots
+12:27 P.M. Beginning the work day
+01:45 P.M. Found an error with my kernal that was preventing my plots from autosizing properly. 
+03:00 P.M. Finished line plot for five states and emissions rates
+
