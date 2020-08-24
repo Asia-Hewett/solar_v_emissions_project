@@ -1,0 +1,15 @@
+AllEnergyProduced.csv - Overall renewable energy production per billion Btu
+
+Concentration - Annual.csv  - Concentration of different elements in the air --Don't think we need this one.
+Concentration - Seasonal.csv - Same as above
+Concentration - Annual_columninfo.csv - Description of the columns in Concentration - Annual.csv
+Concentration - Seasonal_columninfo.csv - Same as above
+
+consumption.csv - State solar energy consumption over time.
+
+emissions.csv - Emissions data by state
+
+population_data.csv = Population data by state
+
+SolarProduction.csv - Solor Production data by state
+
