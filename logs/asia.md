@@ -32,3 +32,5 @@
 08:20 P.M. Finished the 10 year emissions chart for 50 states
 10:45 P.M. Spent two hours trying to understand how to fit a grouped chart within the provided limits. Kill me. 
 11:31 P.M. Finished formatting my grouped bar graph. It does not prove my point. 
+11:44 P.M. Changing direction for my next plots. I am trying to prove my hypothesis, and the five states we chose do not show my data the best. I am not comparing my data to anyone elses in the group, therefore, unique nominators are okay as long as we use the same denomenator for comparing data. 
+11:50 P.M. Going to make a five line plot to show the relationship between the five most populous states (CA, TX, FL, NY, IL) and their emissions rates over the past 10 years.
