@@ -26,3 +26,7 @@
 09:31 P.M. Had to fix the csv's to show state abbreviations so I could merge the emissions data with the population data
 09:43 P.M. Emissions data had to be updated to fit the previous edits as well
 11:12 P.M. Trying to get my multiplot line to work but I've run into some roadblocks I believe are rooted in my dataframes. I'm going to do some more research and get it figured out. I'll use a chi-test and t-test to determine correlation on my last plot.
+
+07:45 P.M. Home from work 
+08:00 P.M. Settled in to start work on combining my graphs to show correlation between population and emissions. I think all 50 states would be more impressive, and doing a box and whiskers or t/chi test would prove a relationship.
+08:20 P.M. Finished the 10 year emissions chart for 50 states
