@@ -40,4 +40,4 @@
 12:27 P.M. Beginning the work day
 01:45 P.M. Found an error with my kernal that was preventing my plots from autosizing properly. 
 03:00 P.M. Finished line plot for five states and emissions rates
-
+04:05 P.M. Completed line plot but I'm not liking the layout. It doesn't do much to show the population of the states... Perhaps that box and whiskers plot? Showing Emissions rates is tough...
