@@ -46,3 +46,6 @@ while i was making a grilled cheese sandwich. Had to do another API call to get 
 the percentages. I made some pie charts for our states of interest to compare to the emissions basemap. it turned out okay in my opinion. Worked on 
 slides for the presentation and did some edits to the presentation for continuity. 
 
+8/24/2020 Met with the group and did run through of presentation. Worked with Gina and Asia to fix the master branch. 
+
+8/25/2020 Wrote speaker notes for my slides. Met with group. Today's the day!
