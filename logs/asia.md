@@ -45,3 +45,5 @@
 05:37 P.M. Finished 5 box and whisker plots. Not what I was expecting. Texas skews all data for averages because it's nearly double in output what second place is...
 06:27 P.M. Finished the stacked area plot showing 10yr emissions for my five most populous states. I am disappointed with the results.
 06:30 P.M. Presentation trial run with group 
+09:00 P.M. Final saves and push for the day -- Last minute changes to charts submitted.
+10:02 P.M. Added a linear regression plot and fixed EVERYTHING
