@@ -32,3 +32,17 @@ I also experimented with colorbar. SUPER NEAT! Its extra but I like it. I need t
 Probably will do some more data collection for renewable consumption to see if that correlates better. So far, findings are that production
 rates are not indicative of high or low emissions. Would also like to show a histogram of some sort and of course a statistical test. Working on it.
 
+8/20/2020 Had class today, we decided to examine correlations overall and then hone in on states of interest. I also made a scatter plot for consumption.
+That was all for today was tired from grandma's services :(
+
+8/21/2020 Worked on linear regeressions. Realized I did my scatter plots backwards and fixed them.
+
+8/22/2020 Class today, we worked together and put most of the presentation together. Made slides and decided on a flow. Also for continuity, I made a bar graph.
+Made a basemap for emissions level, again extra but I really liked how it turned out! Might scrap it though because it doesnt go with my part. Thats all for today,
+time to study for finals.
+
+8/23/2020 Worked basemap into my part. The idea of comparing the percentage of renewable consumption to total energy consumptions crept up on me 
+while i was making a grilled cheese sandwich. Had to do another API call to get the information for total energy consumption by  state and then calculate
+the percentages. I made some pie charts for our states of interest to compare to the emissions basemap. it turned out okay in my opinion. Worked on 
+slides for the presentation and did some edits to the presentation for continuity. 
+
