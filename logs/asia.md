@@ -44,3 +44,4 @@
 05:04 P.M. Made a graph to show the smallest 5 states by comparison. Very little emissions output as expected.
 05:37 P.M. Finished 5 box and whisker plots. Not what I was expecting. Texas skews all data for averages because it's nearly double in output what second place is...
 06:27 P.M. Finished the stacked area plot showing 10yr emissions for my five most populous states. I am disappointed with the results.
+06:30 P.M. Presentation trial run with group 
