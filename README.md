@@ -46,7 +46,7 @@ This data represents Total Renewable Energy Metrics that include Biomass Energy,
 **Conclusion:** The overall data shows that the level of state production or consumption of renewable energy compared to emissions is unrelated. 
 It is worth noting, however that states with higher percentages of renewable energy consumption have lower CO2 emissions levels.
 
-Our linear regression models show little if any correlation between renewable energy production and emissions levels. The same test seems to show no correlation between consumption percentage and emissions but if we take a closer look, we can see a trend formulating. n\
+Our linear regression models show little if any correlation between renewable energy production and emissions levels. The same test seems to show no correlation between consumption percentage and emissions but if we take a closer look, we can see a trend formulating. \
 r2 value = 0.2718592537766137\
 pvalue = 6.79306335646375e-37
 
