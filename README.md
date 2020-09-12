@@ -20,11 +20,11 @@ Identify the impact of renewable energies and determine whether certain regions 
 Started with all states for initial correlation analysis from 2008-2017
 Scaled it down to the 5 states with the largest change in emissions over the 10 year period
 
-**Positive change:** OH, PA, IN, GA, IL
-**Negative change:** TX, WA, MS, ND, ID
-**No change:** VT
-**Highest population:** CA, FL, TX, NY, IL
-**Highest avg emissions:** CA, FL, TX, LA, PA
+**Positive change:** OH, PA, IN, GA, IL\
+**Negative change:** TX, WA, MS, ND, ID\
+**No change:** VT\
+**Highest population:** CA, FL, TX, NY, IL\
+**Highest avg emissions:** CA, FL, TX, LA, PA\
 
 ## Solar Production VS Air Quality
 **Hypothesis:** If production of solar energy is related to air quality then increased solar production will lower CO2 emissions.
